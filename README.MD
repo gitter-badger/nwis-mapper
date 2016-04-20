@@ -1,5 +1,7 @@
 # nwis-mapper
 
+[![Join the chat at https://gitter.im/USGS-WiM/nwis-mapper](https://badges.gitter.im/USGS-WiM/nwis-mapper.svg)](https://gitter.im/USGS-WiM/nwis-mapper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > codebase for NWIS mapper
 
 ## Server setup
